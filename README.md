@@ -6,9 +6,9 @@ Press the buttons or keyboard keys to play different drum sounds.
 
 ## Features
 
-- Interactive drum sounds
-- Button and keyboard controls
-- Simple and responsive interface
+- Play drum sounds by clicking buttons
+- Play drum sounds using keyboard keys
+- Simple interactive interface
 
 ## Technologies
 
@@ -16,11 +16,13 @@ Press the buttons or keyboard keys to play different drum sounds.
 - CSS
 - JavaScript
 
-## How to Use
+## What I Learned
 
-1. Open the project in your browser
-2. Click the drum buttons or press the corresponding keys
-3. Play and experiment with the sounds
+- Using `addEventListener` for user interaction
+- Handling keyboard input with `event.key`
+- Working with audio in JavaScript
+- Connecting JavaScript with HTML elements
+- Basic DOM manipulation
 
 ## Author
 
