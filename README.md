@@ -28,5 +28,7 @@ Press the buttons or keyboard keys to play different drum sounds.
 
 Software engineering student at ITS
 
+## Screenshots
+
 
 <img width="1000" height="1000" alt="Screenshot from 2026-03-08 17-21-51" src="https://github.com/user-attachments/assets/88e5540a-fcb0-427d-86e2-145368a67484" />
